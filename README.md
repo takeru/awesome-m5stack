@@ -1,6 +1,8 @@
 # awesome-m5stack
 Awesome M5
 
+日本語でおｋ
+
 
 * Projects / プロジェクト
   * [ｽﾀｯｸﾁｬﾝ(Stack-chan)](https://github.com/meganetaaan/stack-chan/blob/main/README_ja.md)
@@ -17,3 +19,8 @@ Awesome M5
   * [Lang-ship](https://lang-ship.com/blog/)
   * ...
   * ...
+
+* Shop
+  * https://www.switch-science.com/
+  * https://shop.m5stack.com/collections/
+
